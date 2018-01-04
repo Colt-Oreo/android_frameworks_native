@@ -28,8 +28,7 @@
 #include <utils/Flattenable.h>
 #include <utils/RefBase.h>
 
-#include <nativebase/nativebase.h>
-
+#include "../../../nativebase/include/nativebase/nativebase.h"
 #include <hardware/gralloc.h>
 
 namespace android {
